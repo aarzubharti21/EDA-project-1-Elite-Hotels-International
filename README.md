@@ -1,6 +1,6 @@
-# 🏨 Elite Hotels International – Exploratory Data Analysis
+#  Elite Hotels International – Exploratory Data Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 Elite Hotels International is a hospitality analytics project focused on understanding hotel booking patterns, customer behavior, revenue performance, and operational efficiency through Exploratory Data Analysis (EDA).
 
@@ -10,7 +10,7 @@ Using Python and data visualization techniques, this project uncovers key trends
 
 ---
 
-## 🔗 Kaggle Notebook
+##  Kaggle Notebook
 
 **Kaggle Project Link:**
 
@@ -18,7 +18,7 @@ https://www.kaggle.com/code/aarzukashyap/eda-project-1-elite-hotels-internationa
 
 ---
 
-# 🎯 Business Objectives
+#  Business Objectives
 
 This project aims to answer the following business questions:
 
@@ -48,7 +48,7 @@ This project aims to answer the following business questions:
 
 ---
 
-# 📂 Dataset Information
+#  Dataset Information
 
 The dataset contains hotel reservation and booking information including:
 
@@ -68,7 +68,7 @@ The dataset contains hotel reservation and booking information including:
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 * Python
 * Pandas
@@ -80,7 +80,7 @@ The dataset contains hotel reservation and booking information including:
 
 ---
 
-# 🧹 Data Cleaning & Preprocessing
+#  Data Cleaning & Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -108,9 +108,9 @@ Converted:
 
 ---
 
-# 📊 Exploratory Data Analysis
+#  Exploratory Data Analysis
 
-## 1️⃣ Hotel Booking Distribution
+##  Hotel Booking Distribution
 
 ### Objective
 
@@ -128,7 +128,7 @@ Analyze booking volume across hotel types.
 
 ---
 
-## 2️⃣ Revenue Analysis
+##  Revenue Analysis
 
 ### Objective
 
@@ -146,7 +146,7 @@ A small number of hotel categories contribute a significant share of total reven
 
 ---
 
-## 3️⃣ Customer Demographics Analysis
+##  Customer Demographics Analysis
 
 ### Objective
 
@@ -164,7 +164,7 @@ Customer segments exhibit different booking and spending behaviors.
 
 ---
 
-## 4️⃣ Booking Trends Analysis
+##  Booking Trends Analysis
 
 ### Objective
 
@@ -182,7 +182,7 @@ Seasonality significantly influences hotel demand.
 
 ---
 
-## 5️⃣ Cancellation Analysis
+##  Cancellation Analysis
 
 ### Objective
 
@@ -200,7 +200,7 @@ Long lead-time bookings tend to have higher cancellation probability.
 
 ---
 
-## 6️⃣ Room Type Analysis
+##  Room Type Analysis
 
 ### Objective
 
@@ -218,7 +218,7 @@ Certain room categories consistently outperform others.
 
 ---
 
-## 7️⃣ Lead Time Analysis
+##  Lead Time Analysis
 
 ### Objective
 
@@ -236,7 +236,7 @@ Lead time is a strong indicator of booking reliability.
 
 ---
 
-# 📈 Key Findings
+#  Key Findings
 
 ### Finding 1
 
@@ -264,7 +264,7 @@ Seasonality plays a major role in hotel demand forecasting.
 
 ---
 
-# 💡 Business Recommendations
+#  Business Recommendations
 
 ## Revenue Optimization
 
@@ -288,7 +288,7 @@ Seasonality plays a major role in hotel demand forecasting.
 
 ---
 
-# 📊 Visualizations Included
+#  Visualizations Included
 
 * Booking Distribution Analysis
 * Revenue Analysis
@@ -300,32 +300,7 @@ Seasonality plays a major role in hotel demand forecasting.
 * Correlation Heatmap
 
 ---
-
-# 📁 Repository Structure
-
-```text
-eda-project-1-elite-hotels-international/
-│
-├── data/
-│   └── hotel_bookings.csv
-│
-├── notebooks/
-│   └── elite_hotels_analysis.ipynb
-│
-├── images/
-│   ├── booking_distribution.png
-│   ├── revenue_analysis.png
-│   ├── cancellation_analysis.png
-│   ├── occupancy_trends.png
-│
-├── requirements.txt
-│
-└── README.md
-```
-
----
-
-# 🚀 Project Outcome
+#  Project Outcome
 
 This project demonstrates how Exploratory Data Analysis can be applied in the hospitality industry to improve operational efficiency, customer experience, occupancy planning, and revenue management.
 
@@ -333,7 +308,7 @@ The insights generated from this analysis support data-driven decision-making an
 
 ---
 
-# 👩‍💼 Author
+#  Author
 
 **Aarzu Bharti**
 
@@ -341,17 +316,6 @@ MBA (Business Analytics) | ECBA Certified
 
 Aspiring Data Analyst | Business Analyst
 
-### Skills Demonstrated
 
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* Business Analytics
-* Hospitality Analytics
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
 
 
